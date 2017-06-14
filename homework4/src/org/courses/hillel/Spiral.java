@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Spiral {
     public static void main(String[] args) {
+
         spiral();
     }
 
